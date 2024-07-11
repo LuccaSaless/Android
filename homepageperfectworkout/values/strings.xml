@@ -1,0 +1,22 @@
+
+<resources>
+    <string name="app_name">PerfectWorkOut</string>
+    <string name="favorite_collections">Favorite diet sheet</string>
+    <string name="align_your_body">Make your fitness schedule</string>
+    <string name="ab1_chest">Chest/Triceps</string>
+    <string name="ab2_back">Back/Biceps</string>
+    <string name="ab3_stretching">Stretching</string>
+    <string name="ab4_legday">Leg day</string>
+    <string name="ab5_hiit">hit</string>
+    <string name="ab6_cardio">Cardio</string>
+    <string name="fc1_bulking">Bulking</string>
+    <string name="fc2_cutting">Cutting</string>
+    <string name="fc3_lowcarb">Low carb</string>
+    <string name="fc4_vegan">Vegan</string>
+    <string name="fc5_maintence">Maintenance</string>
+    <string name="fc6_daytoday">Day-to-day</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="placeholder_search">Search</string>
+</resources>
